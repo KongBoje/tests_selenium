@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="com.mycompany.seleniumtesting.SeleniumtestingSuite" time="4.602" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="com.mycompany.seleniumtesting.SeleniumtestingSuite" time="4.619" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk/jre/lib/amd64"/>
     <property name="java.vm.version" value="25.162-b12"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/tmp/tests_selenium"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/lasse/NetBeansProjects/SeleniumTesting"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="test" value="com.mycompany.seleniumtesting.SeleniumtestingSuite"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/tmp/tests_selenium"/>
+    <property name="user.dir" value="/home/lasse/NetBeansProjects/SeleniumTesting"/>
     <property name="java.runtime.version" value="1.8.0_162-b12"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-openjdk/jre/lib/endorsed"/>
@@ -62,11 +62,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test1" time="0.35"/>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test2" time="0.416"/>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test3" time="0.202"/>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test4" time="0.511"/>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test5" time="1.147"/>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test6" time="0.323"/>
-  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test7" time="1.653"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test1" time="0.365"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test2" time="0.468"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test3" time="0.199"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test4" time="0.445"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test5" time="1.154"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test6" time="0.33"/>
+  <testcase classname="com.mycompany.seleniumtesting.SeleniumtestingSuite" name="test7" time="1.658"/>
 </testsuite>
