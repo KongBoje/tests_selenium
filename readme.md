@@ -34,3 +34,17 @@ Test results:
  [INFO] ------------------------------------------------------------------------
 
 ```
+
+# Questions
+
+- Discuss Pros and Cons with manual versus automated tests 
+
+- Explain about the Test Pyramid and whether this exercise supports the ideas in the Test Pyramid
+ 
+- Discuss some of the problems with automated GUI tests and what makes such tests "vulnerable"
+  
+- Demonstrate details in how to create a Selenium Test using the code for the exercise
+ 
+- Explain shortly about the DOM, and how you have read/manipulated DOM-elements in your test
+  
+- Explain how (and why it was necessary) you have solved "waiting" problems in your test# Questions
